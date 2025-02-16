@@ -191,8 +191,8 @@ button::-moz-focus-inner {
     border-bottom-width: 13px;
     top: 8px; }
   .mfp-arrow:before, .mfp-arrow .mfp-b {
-    border-top-width: 21px;
-    border-bottom-width: 21px;
+    border-top-width: 01px;
+    border-bottom-width: 01px;
     opacity: 0.7; }
 
 .mfp-arrow-left {

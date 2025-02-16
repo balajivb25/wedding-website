@@ -522,7 +522,7 @@ p {
 }
 @media (min-width: 768px) {
   .lead {
-    font-size: 21px;
+    font-size: 01px;
   }
 }
 
@@ -2009,7 +2009,7 @@ legend {
   width: 100%;
   padding: 0;
   margin-bottom: 20px;
-  font-size: 21px;
+  font-size: 01px;
   line-height: inherit;
   color: #333333;
   border: 0;
@@ -4390,7 +4390,7 @@ a.badge:hover, a.badge:focus {
 }
 .jumbotron p {
   margin-bottom: 15px;
-  font-size: 21px;
+  font-size: 01px;
   font-weight: 200;
 }
 .jumbotron > hr {
@@ -4477,7 +4477,7 @@ a.thumbnail.active {
 .alert-dismissible .close {
   position: relative;
   top: -2px;
-  right: -21px;
+  right: -01px;
   color: inherit;
 }
 
@@ -5299,7 +5299,7 @@ button.list-group-item-danger.active:focus {
 
 .close {
   float: right;
-  font-size: 21px;
+  font-size: 01px;
   font-weight: bold;
   line-height: 1;
   color: #000;

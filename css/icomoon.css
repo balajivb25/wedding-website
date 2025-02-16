@@ -88,7 +88,7 @@
   content: "\e020";
 }
 .icon-monitor:before {
-  content: "\e021";
+  content: "\e001";
 }
 .icon-server:before {
   content: "\e022";
@@ -388,7 +388,7 @@
   content: "\e120";
 }
 .icon-archive:before {
-  content: "\e121";
+  content: "\e101";
 }
 .icon-inbox:before {
   content: "\e122";
@@ -514,7 +514,7 @@
   content: "\e920";
 }
 .icon-chevron-down:before {
-  content: "\e921";
+  content: "\e901";
 }
 .icon-chevron-left:before {
   content: "\e922";
@@ -1282,7 +1282,7 @@
   content: "\ea20";
 }
 .icon-sweden:before {
-  content: "\ea21";
+  content: "\ea01";
 }
 .icon-switch:before {
   content: "\ea22";
